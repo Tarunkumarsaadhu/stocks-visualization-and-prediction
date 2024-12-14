@@ -12,6 +12,8 @@ import plotly.express as px
 from model import prediction
 from sklearn.svm import SVR
 
+System.out.println("Hi")
+
 
 def get_stock_price_fig(df):
 
